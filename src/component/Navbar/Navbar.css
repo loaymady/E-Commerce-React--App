@@ -1,0 +1,14 @@
+.navv {
+  font-family: "Caveat", cursive;
+  font-size: 37px !important;
+  letter-spacing: 3px;
+  font-weight: 700 !important;
+  margin: 0 !important;
+}
+@media screen and (max-width: 363px) {
+  .loginn,
+  .registerr,
+  .cartt {
+    margin-bottom: 10px;
+  }
+}

@@ -1,0 +1,122 @@
+.myswiper {
+  width: 100% !important;
+}
+
+.swiperslide img {
+  width: 100%;
+  height: 570px;
+  background-size: cover;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #fff;
+}
+
+.card2 {
+  font-family: Century Gothic, sans-serif;
+  font-size: 50px !important;
+}
+
+.slider1-text1 {
+  font-weight: 300;
+  letter-spacing: -0.07px;
+  line-height: 56px;
+  font-size: 35px;
+}
+
+.slider1-text2 {
+  font-size: 40px !important;
+  line-height: 1.5em !important;
+}
+
+.slider2-text1 {
+  font-family: "Shadows Into Light", cursive;
+  font-size: 80px !important;
+}
+
+.slider2-text2 {
+  font-size: 24px !important;
+  line-height: 1em !important;
+}
+
+.slider1-btn,
+.slider2-btn {
+  text-transform: uppercase;
+  font-size: 14px !important;
+  letter-spacing: 0.16em;
+  border: none !important;
+  transition: all 0.5s ease;
+}
+
+.slider3-btn {
+  text-transform: uppercase;
+  line-height: 16px !important;
+  padding: 15px 30px !important;
+  font-size: 17px !important;
+  color: #423f3f !important;
+  transition: all 0.5s ease;
+}
+
+.slider1-btn:hover,
+.slider2-btn:hover,
+.slider3-btn:hover {
+  transform: scale(1.1);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  background-color: black !important;
+  color: white !important;
+}
+
+.slider4-text2 {
+  font-size: 56px !important;
+  margin-top: 10px;
+}
+
+.slider4-text3 {
+  font-size: 56px;
+  margin-bottom: 33px;
+}
+
+.slider4-btn {
+  transition: all 0s ease;
+}
+
+.slider4-btn:hover {
+  transform: scale(1.1);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  color: white !important;
+}
+
+.con-slider3w4 {
+  margin-left: 200px !important;
+}
+
+@media screen and (max-width: 767.7px) {
+  .slider2-text1 {
+    font-size: 45px !important;
+  }
+  .slider1-text2 {
+    font-size: 30px !important;
+  }
+
+  .slider2-text2 {
+    font-size: 20px !important;
+  }
+
+  .con-slider3w4 {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin-left: 0px !important;
+  }
+  .slider4-text2 {
+    font-size: 40px !important;
+    margin-top: 10px;
+  }
+
+  .slider4-text3 {
+    font-size: 40px;
+    margin-bottom: 33px;
+  }
+}

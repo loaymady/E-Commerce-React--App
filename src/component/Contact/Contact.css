@@ -1,0 +1,15 @@
+.contact {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.contact-img {
+  height: 300px;
+  opacity: 0.4;
+}
+
+@media screen and (max-width: 575px) {
+  .contact-desc {
+    font-size: 16px !important;
+    margin-top: 10px;
+  }
+}
