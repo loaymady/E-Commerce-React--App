@@ -1,7 +1,7 @@
 {
-  "main.css": "/E-Commerce-React--App/static/css/main.7036fd58.chunk.css",
-  "main.js": "/E-Commerce-React--App/static/js/main.138b65cb.chunk.js",
-  "main.js.map": "/E-Commerce-React--App/static/js/main.138b65cb.chunk.js.map",
+  "main.css": "/E-Commerce-React--App/static/css/main.206c9415.chunk.css",
+  "main.js": "/E-Commerce-React--App/static/js/main.ee9ff26b.chunk.js",
+  "main.js.map": "/E-Commerce-React--App/static/js/main.ee9ff26b.chunk.js.map",
   "static/js/1.ad39ee43.chunk.js": "/E-Commerce-React--App/static/js/1.ad39ee43.chunk.js",
   "static/js/1.ad39ee43.chunk.js.map": "/E-Commerce-React--App/static/js/1.ad39ee43.chunk.js.map",
   "static/css/2.e60a5547.chunk.css": "/E-Commerce-React--App/static/css/2.e60a5547.chunk.css",
@@ -17,9 +17,9 @@
   "static/media/about2.jpg": "/E-Commerce-React--App/static/media/about2.db61a3d9.jpg",
   "static/media/contactUs.jpg": "/E-Commerce-React--App/static/media/contactUs.e8a02ef0.jpg",
   "static/media/font-awesome.min.css": "/E-Commerce-React--App/static/media/fontawesome-webfont.912ec66d.svg",
-  "static/css/main.7036fd58.chunk.css.map": "/E-Commerce-React--App/static/css/main.7036fd58.chunk.css.map",
+  "static/css/main.206c9415.chunk.css.map": "/E-Commerce-React--App/static/css/main.206c9415.chunk.css.map",
   "static/css/2.e60a5547.chunk.css.map": "/E-Commerce-React--App/static/css/2.e60a5547.chunk.css.map",
   "index.html": "/E-Commerce-React--App/index.html",
-  "precache-manifest.63a1865107fe83497dfd1e2f63c8417b.js": "/E-Commerce-React--App/precache-manifest.63a1865107fe83497dfd1e2f63c8417b.js",
+  "precache-manifest.b83830e3c018ef27bad5fcfbd35cbd39.js": "/E-Commerce-React--App/precache-manifest.b83830e3c018ef27bad5fcfbd35cbd39.js",
   "service-worker.js": "/E-Commerce-React--App/service-worker.js"
 }

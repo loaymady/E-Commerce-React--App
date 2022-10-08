@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "138b65cb02ef8fb8905f",
-    "url": "/E-Commerce-React--App/static/css/main.7036fd58.chunk.css"
+    "revision": "ee9ff26b644ed842858a",
+    "url": "/E-Commerce-React--App/static/css/main.206c9415.chunk.css"
   },
   {
-    "revision": "138b65cb02ef8fb8905f",
-    "url": "/E-Commerce-React--App/static/js/main.138b65cb.chunk.js"
+    "revision": "ee9ff26b644ed842858a",
+    "url": "/E-Commerce-React--App/static/js/main.ee9ff26b.chunk.js"
   },
   {
     "revision": "ad39ee43e5f1e39ec27e",
@@ -60,19 +60,19 @@ self.__precacheManifest = [
     "url": "/E-Commerce-React--App/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/E-Commerce-React--App/static/media/fontawesome-webfont.b06871f2.ttf"
-  },
-  {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/E-Commerce-React--App/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/E-Commerce-React--App/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/E-Commerce-React--App/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "25cbd3f521064d66e3bc46779a143943",
+    "revision": "4368327b6ecf95beaaee80383b96e6f5",
     "url": "/E-Commerce-React--App/index.html"
   }
 ];
