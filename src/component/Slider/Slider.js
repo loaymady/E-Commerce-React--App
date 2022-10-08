@@ -102,11 +102,13 @@ const Slider = () => {
             />
             <div className="card-img-overlay d-flex flex-column justify-content-center mb-5 ">
               <div className="container con-slider3w4">
-                <p className="card-title text-white  fs-3 ">#ACCESSORIES</p>
-                <p className="card-text text-white fs-1 mb-0">
+                <h5 className="card-title text-white m-0 fs-5 ">ACCESSORIES</h5>
+                <h2 className="card-text text-light  slider3w4-text2 ">
                   Feeling relax day,
-                </p>
-                <p className="card-text text-white fs-1  ">enjoy weekend!</p>
+                </h2>
+                <h2 className="card-text text-light  slider3w4-text3 ">
+                  enjoy weekend!
+                </h2>
                 <NavLink
                   to="/Store"
                   className=" btn bg-light m-lg-1 rounded-0 slider3-btn "
@@ -131,10 +133,10 @@ const Slider = () => {
                 >
                   ELECTRONICS
                 </h5>
-                <h2 className="card-text text-dark slider4-text2 ">
+                <h2 className="card-text text-dark slider3w4-text2">
                   New Collection,
                 </h2>
-                <h2 className="card-text text-dark  slider4-text3 ">
+                <h2 className="card-text text-dark  slider3w4-text3 ">
                   Up To 30%
                 </h2>
                 <NavLink

@@ -67,12 +67,12 @@
   color: white !important;
 }
 
-.slider4-text2 {
+.slider3w4-text2 {
   font-size: 56px !important;
   margin-top: 10px;
 }
 
-.slider4-text3 {
+.slider3w4-text3 {
   font-size: 56px;
   margin-bottom: 33px;
 }
@@ -110,13 +110,12 @@
     align-items: center !important;
     margin-left: 0px !important;
   }
-  .slider4-text2 {
+
+  .slider3w4-text2 {
     font-size: 40px !important;
-    margin-top: 10px;
   }
 
-  .slider4-text3 {
+  .slider3w4-text3 {
     font-size: 40px;
-    margin-bottom: 33px;
   }
 }
